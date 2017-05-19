@@ -1,0 +1,7 @@
+os: osx
+
+services: 
+ - docker
+
+install:
+ - docker version
